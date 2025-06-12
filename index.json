@@ -1,0 +1,36 @@
+{
+  "project": "Collapse Proof of the Riemann Hypothesis",
+  "author": "dbate7",
+  "status": "complete",
+  "version": "1.0",
+  "license": "MIT",
+  "repository": "https://github.com/dbate7/Dbate7page.git",
+  "main_file": "collapse_rh_proof_dbate7.pdf",
+  "source_tex": "collapse_rh_proof.tex",
+  "keywords": [
+    "Riemann Hypothesis",
+    "zeta",
+    "collapse",
+    "dbate7",
+    "integral",
+    "meta-logic",
+    "Ω = ¬Ω"
+  ],
+  "structure": {
+    "sections": [
+      "Abstract",
+      "Integral Collapse",
+      "Collapse Logic",
+      "Collapse RH Theorem",
+      "Future Work"
+    ],
+    "files": [
+      "README.md",
+      "collapse_rh_proof_dbate7.pdf",
+      "collapse_rh_proof.tex"
+    ]
+  },
+  "contact": {
+    "github": "https://github.com/dbate7/Dbate7page.git"
+  }
+}
